@@ -18,8 +18,6 @@ Ce projet se compose de deux parties distinctes :
 
 ---
 
-## Détails des laboratoires
-
 ### Lab 3 – Multi-Agent Search
 
 **Objectifs :**
@@ -39,3 +37,4 @@ python pacman.py -p MinimaxAgent -l smallClassic -a depth=2
 python pacman.py -p AlphaBetaAgent -l smallClassic -a depth=2
 python pacman.py -p ExpectimaxAgent -l smallClassic -a depth=2
 
+### Lab 3 – Multi-Agent Search
